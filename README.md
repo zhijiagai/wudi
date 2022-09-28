@@ -58,7 +58,7 @@ TienChin健身是一套全部开源的快速开发平台，毫无保留给个人
 
 <table>
     <tr>
-        <td><img src="https://oscimg.oschina.net/oscnet/cd1f90be5f2684f4560c9519c0f2a232ee8.jpg"/></td>
+        <td><img src="./doc/xia.jpg"/></td>
         
     </tr>
     
